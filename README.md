@@ -6,7 +6,7 @@
 
 ---
 
-## 📋 Project & Submission Information
+<!-- ## 📋 Project & Submission Information
 
 | Field | Details |
 |---|---|
@@ -17,7 +17,7 @@
 | **Demonstration Video** | `[Insert Shared Google Drive Video Link Here]` |
 | **Target Application** | **BookNook Library Portal** (Node.js / Express) |
 
----
+--- -->
 
 ## 📖 Executive Summary & Scenario Overview
 
