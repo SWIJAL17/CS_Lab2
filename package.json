@@ -1,0 +1,23 @@
+{
+  "name": "booknook-reflected-xss-demo",
+  "version": "1.0.0",
+  "description": "Reflected Cross-Site Scripting (XSS) comprehensive classroom demonstration web app (Vulnerable + Hardened).",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "start:vulnerable": "node server.js",
+    "start:fixed": "node server_fixed.js"
+  },
+  "keywords": [
+    "xss",
+    "reflected-xss",
+    "cybersecurity",
+    "application-security",
+    "express"
+  ],
+  "author": "Group CS_Lab2",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
