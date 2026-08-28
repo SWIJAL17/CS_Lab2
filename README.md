@@ -10,10 +10,10 @@
 
 | Field | Details |
 |---|---|
-| **Group ID** | `[Insert Your Group ID / Group Name Here]` |
-| **Team Members** | `[Member 1 (Roll/ID)]`, `[Member 2 (Roll/ID)]`, `[Member 3 (Roll/ID)]` |
+| **Group ID** | `[11]` |
+| **Team Members** | `[Member 1 IIB2024042]`, `[Member 2 IIB2024043]`, `[Member 3 IIb2024035]`, `[Member 4 IIB2024040]` |
 | **Assigned Flaw** | **Problem #12 — Reflected Cross-Site Scripting (XSS)** |
-| **GitHub Repository** | `[Link to this GitHub Classroom Repo]` |
+`|
 | **Demonstration Video** | `[Insert Shared Google Drive Video Link Here]` |
 | **Target Application** | **BookNook Library Portal** (Node.js / Express) |
 
