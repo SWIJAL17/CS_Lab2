@@ -249,7 +249,7 @@ The browser's layout engine renders the text literally on screen and executes no
 
 ## 🎥 Video Demonstration Reference
 
-- **Shared Video Link:** `[Paste Google Drive URL Here]`
+- **Shared Video Link:** `https://canva.link/zylttt5fw56q7uy`
 - **Presentation Script:** See [VIDEO_SCRIPT.md](file:///c:/Users/swija/OneDrive/c%20folder/Desktop/CS/CS_Lab2/VIDEO_SCRIPT.md) for the complete 10-minute voiceover guide.
 
 ---
